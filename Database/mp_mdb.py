@@ -20,3 +20,4 @@ data
 db = client["RecSys"]
 db
 db.ds1.insert_many(data)
+#done
